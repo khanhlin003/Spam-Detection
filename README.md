@@ -6,9 +6,18 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Contributors
 - @khanhlinh003
-- @
+- @rayzheng59
+- @AaronLim2001
 
 ## Problem Definition 
-
+- Are we able to predict the email is spam or not based on its attributes?
+- Which model would be the best to predict it?
+- How to handle out of vocabulary words with the new dataset?
 
 ## Models Used 
+
+## Conclusion 
+
+## What dit we learn from this project?
+
+## References 
