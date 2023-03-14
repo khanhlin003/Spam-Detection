@@ -15,7 +15,10 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - How to handle out of vocabulary words with the new dataset?
 
 ## Models Used 
-
+- Decision Tree
+- Neural Networks
+- Naive Bayes Classifier
+- Random Forest
 ## Conclusion 
 
 ## What dit we learn from this project?
