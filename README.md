@@ -19,8 +19,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Models Used
 1. Decision Tree
-2. Naive Bayes Classifier
-3. Random Forest Classifier
+2. Naive Bayes
+3. Random Forest
 
 ## Conclusion
 - False Positive Rate is significant in email spam detection as the classification of non-spam emails as spam can be an undesirable outcome
