@@ -20,9 +20,19 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Random Forest Classifier
 
 ## Conclusion
+- False Positive Rate is significant in email spam detection as the classification of non-spam emails as spam can be an undesirable outcome
+- Precision is also a good metric to look at as it takes into account the number of false positives
+- SMOTEENN was the worst performing training dataset in all 3 classifiers due to its high false positive rate
+- SMOTETomek was the best performing training dataset in all 3 classifiers due to its low false positive rate
+- Naive Bayes Classifier had the lowest number of false positives
+- Both Decision Tree and Random Forest had the lower number of false negatives
 
 ## What did we learn from this project?
+- Resampling of imbalanced dataset using oversampling, undersampling, SMOTEENN, SMOTETomek
+- Decision Tree, Naive Bayes, Random Forest Classifier
+- Importance of accuracy, precision, recall and F1 score metrics
 
 ## References
 - https://github.com/nicklimmm/movie-analysis
 - https://www.kdnuggets.com/2020/07/spam-filter-python-naive-bayes-scratch.html
+- https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
