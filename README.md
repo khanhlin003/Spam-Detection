@@ -16,6 +16,14 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Which model would be the best to predict spam emails?
 - How to handle out of vocabulary words with the new dataset?
 
+## Table of contents
+1. Data extraction
+2. Data resampling and splitting 
+3. Data visualization
+4. Decision Tree
+5. Naive Bayes
+6. Random Forest 
+
 ## Models Used
 1. Decision Tree
 2. Naive Bayes
