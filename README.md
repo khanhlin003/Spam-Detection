@@ -16,9 +16,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Models Used 
 - Decision Tree
-- Neural Networks
 - Naive Bayes Classifier
-- Random Forest
+- Random Forest Classifier
+
 ## Conclusion 
 
 ## What dit we learn from this project?
