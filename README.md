@@ -10,14 +10,17 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - @AaronLim2001
 
 ## Problem Definition
-- Are we able to predict the email is spam or not based on its attributes?
-- Which model would be the best to predict it?
+- Are we able to predict whether the email is spam or not based on its content?
+- Ways to resample imbalanced dataset?
+- Which datasets perform well as training data?
+- Which metrics are important in evaluating the models?
+- Which model would be the best to predict spam emails?
 - How to handle out of vocabulary words with the new dataset?
 
 ## Models Used
-- Decision Tree
-- Naive Bayes Classifier
-- Random Forest Classifier
+1. Decision Tree
+2. Naive Bayes Classifier
+3. Random Forest Classifier
 
 ## Conclusion
 - False Positive Rate is significant in email spam detection as the classification of non-spam emails as spam can be an undesirable outcome
@@ -28,9 +31,11 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Both Decision Tree and Random Forest had the lower number of false negatives
 
 ## What did we learn from this project?
-- Resampling of imbalanced dataset using oversampling, undersampling, SMOTEENN, SMOTETomek
-- Decision Tree, Naive Bayes, Random Forest Classifier
-- Importance of accuracy, precision, recall and F1 score metrics
+- Resampling of imbalanced dataset using Oversampling, Undersampling, SMOTEENN and SMOTETomek
+- Decision Tree, Naive Bayes and Random Forest Classifier
+- Incorporating existing models from sklearn
+- Importance of Accuracy, Precision, Recall and F1 Score metrics
+- Collaborating using GitHub
 
 ## References
 - https://github.com/nicklimmm/movie-analysis
