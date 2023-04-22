@@ -24,5 +24,5 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## What did we learn from this project?
 
 ## References
-https://github.com/nicklimmm/movie-analysis
-https://www.kdnuggets.com/2020/07/spam-filter-python-naive-bayes-scratch.html
+- https://github.com/nicklimmm/movie-analysis
+- https://www.kdnuggets.com/2020/07/spam-filter-python-naive-bayes-scratch.html
