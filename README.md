@@ -49,3 +49,4 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - https://github.com/nicklimmm/movie-analysis
 - https://www.kdnuggets.com/2020/07/spam-filter-python-naive-bayes-scratch.html
 - https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
+- https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18
