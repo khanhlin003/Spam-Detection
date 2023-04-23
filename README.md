@@ -32,6 +32,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Conclusion
 - False Positive Rate is significant in email spam detection as the classification of non-spam emails as spam can be an undesirable outcome
 - Precision is also a good metric to look at as it takes into account the number of false positives
+- F1 Score takes into account both Precision and Recall, which can be indicative of the balance between false positives and false negatives
 - SMOTEENN was the worst performing training dataset in all 3 classifiers due to its high false positive rate
 - SMOTETomek was the best performing training dataset in all 3 classifiers due to its low false positive rate
 - Naive Bayes Classifier had the lowest number of false positives
