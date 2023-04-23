@@ -14,7 +14,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Which datasets perform well as training data?
 - Which metrics are important in evaluating the models?
 - Which model would be the best to predict spam emails?
-- How to handle out of vocabulary words with the new dataset?
+- How to handle out-of-vocabulary words with the new dataset?
 
 ## Table of contents
 1. Data extraction
