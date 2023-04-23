@@ -21,8 +21,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 2. Data resampling and splitting 
 3. Data visualization
 4. Decision Tree
-5. Naive Bayes
-6. Random Forest 
+5. Random Forest 
+6. Naive Bayes
 
 ## Models Used
 1. Decision Tree
