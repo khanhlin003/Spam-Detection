@@ -37,6 +37,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - SMOTETomek was the best performing training dataset in all 3 classifiers due to its low false positive rate
 - Naive Bayes Classifier had the lowest number of false positives
 - Both Decision Tree and Random Forest had the lower number of false negatives
+- For out-of-vocabulary words, we chose to ignore them as the models will not be properly trained on the new words
 
 ## What did we learn from this project?
 - Resampling of imbalanced dataset using Oversampling, Undersampling, SMOTEENN and SMOTETomek
